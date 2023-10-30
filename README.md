@@ -2,8 +2,7 @@
     <h2>Sobre Mim</h2>
     <p>
       Idade: 18 anos<br>
-      Gênero: Masculino<br>
-      Cidade: Ribeirão Preto<br>
+      Tecníco em Informática (Senac) e Desenvolvimento de Sistemas (Etec)<br>
     </p>
     <hr size="2">
     <p>
