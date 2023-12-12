@@ -17,7 +17,7 @@
       👥 Tenho interesse em colaborar em projetos relacionados a programação e tecnologia em geral.<br>
       🤝 Estou aberto a receber ajuda para aprimorar minhas habilidades de programação.<br>
       📚 No momento, estou me aprofundando no estudo de desenvolvimento orientado a objetos (POO) e aprendendo novas tecnologias.<br>
-      💡 Fique à vontade para me perguntar sobre qualquer tópico relacionado a matemática ou tecnologia da informação (TI).<br>
+      💡 Planejo me aprofundar na área de cibersegurança.<br>
     </p>
 <hr size="2">
 </body>
