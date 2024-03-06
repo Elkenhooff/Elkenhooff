@@ -8,7 +8,7 @@
     <h1>Pedro David</h1>
     <h2>Sobre Mim</h2>
     <p>
-      Idade: 18 anos<br>
+      Idade: 19 anos<br>
       Tecníco em Informática (Senac) e Desenvolvimento de Sistemas (Etec)<br>
     </p>
     <hr size="2">
